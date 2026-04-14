@@ -4,7 +4,7 @@ function Modules() {
   return (
     <center>
     <div>
-      <h1>Modules Page</h1>
+      <h1>MODULES PAGE</h1>
       <ul>
         <li>machine learning</li>
         <li>devOps</li>
